@@ -1,5 +1,3 @@
-#!/bin/sh
-
 sudo apt-get install lsb-release &&
 sudo apt-get install figlet &&
 sudo apt-get install update-motd &&
